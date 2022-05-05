@@ -19,7 +19,7 @@ sebuah program bernama "box shadow generator" yang dibuat dengan bahasa pemrogra
 
 ### live demo & preview
 
-![image](https://github.com/candradwicahyo/box-shadpw-generator/blob/master/preview.jpg)
+![image](https://github.com/candradwicahyo/box-shadow-generator/blob/master/preview.jpg)
 
 [tekan link ini](https://candradwicahyo.github.io/box-shadow-generator)
 
